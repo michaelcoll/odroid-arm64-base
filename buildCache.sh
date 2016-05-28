@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build --rm -t michaelcoll/odroid-armhf-base .
+docker build --rm -t michaelcoll/odroid-arm64-base .

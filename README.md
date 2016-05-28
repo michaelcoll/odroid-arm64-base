@@ -1,1 +1,1 @@
-## Base Odroid C2 ArmHF Image
+## Base Odroid C2 Arm64 Image
